@@ -1,0 +1,125 @@
+2025-/03-/18 12:48:57 PM: INFO: *******Test01 login************
+2025-/03-/18 12:48:57 PM: INFO: *******Verification of login page title************
+2025-/03-/18 12:49:00 PM: INFO: *******Page title matched************
+2025-/03-/18 12:49:02 PM: INFO: ******* login started************
+2025-/03-/18 12:49:08 PM: INFO: *******Title matched************
+2025-/03-/18 12:49:10 PM: INFO: *******Valid login started************
+2025-/03-/18 12:49:16 PM: INFO: *******Title not matched************
+2025-/03-/18 13:13:56 PM: INFO: *******Test01 login************
+2025-/03-/18 13:13:56 PM: INFO: *******Verification of login page title************
+2025-/03-/18 13:13:59 PM: INFO: *******Page title matched************
+2025-/03-/18 13:14:03 PM: INFO: ******* login started************
+2025-/03-/18 13:14:07 PM: INFO: *******Title matched************
+2025-/03-/18 13:14:11 PM: INFO: *******Valid login started************
+2025-/03-/18 13:14:17 PM: INFO: *******Title not matched************
+2025-/03-/18 13:14:48 PM: INFO: *******Test01 login************
+2025-/03-/18 13:14:48 PM: INFO: *******Verification of login page title************
+2025-/03-/18 13:14:53 PM: INFO: *******Page title matched************
+2025-/03-/18 13:14:57 PM: INFO: ******* login started************
+2025-/03-/18 13:15:01 PM: INFO: *******Title matched************
+2025-/03-/18 13:15:06 PM: INFO: *******Valid login started************
+2025-/03-/18 13:15:11 PM: INFO: *******Title not matched************
+2025-/03-/18 13:18:52 PM: INFO: *******Test01 login************
+2025-/03-/18 13:18:52 PM: INFO: *******Verification of login page title************
+2025-/03-/18 13:18:52 PM: INFO: ******* login started************
+2025-/03-/18 13:18:52 PM: INFO: *******Valid login started************
+2025-/03-/18 13:18:55 PM: INFO: *******Page title matched************
+2025-/03-/18 13:18:58 PM: INFO: *******Title not matched************
+2025-/03-/18 13:18:58 PM: INFO: *******Title matched************
+2025-/03-/18 13:22:12 PM: INFO: *******Test01 login************
+2025-/03-/18 13:22:12 PM: INFO: *******Verification of login page title************
+2025-/03-/18 13:22:17 PM: INFO: *******Page title matched************
+2025-/03-/18 13:22:21 PM: INFO: ******* login started************
+2025-/03-/18 13:22:27 PM: INFO: *******Title matched************
+2025-/03-/18 13:22:31 PM: INFO: *******Valid login started************
+2025-/03-/18 13:22:38 PM: INFO: *******Title not matched************
+2025-/03-/18 14:03:16 PM: INFO: *******Test01 login************
+2025-/03-/18 14:03:16 PM: INFO: *******Verification of login page title************
+2025-/03-/18 14:03:19 PM: INFO: *******Page title matched************
+2025-/03-/18 14:03:23 PM: INFO: ******* login started************
+2025-/03-/18 14:03:29 PM: INFO: *******Title matched************
+2025-/03-/18 14:03:33 PM: INFO: *******Valid login started************
+2025-/03-/18 14:03:37 PM: INFO: *******Title not matched************
+2025-/03-/18 14:07:18 PM: INFO: *******Test01 login************
+2025-/03-/18 14:07:18 PM: INFO: *******Verification of login page title************
+2025-/03-/18 14:07:23 PM: INFO: *******Page title matched************
+2025-/03-/18 14:07:27 PM: INFO: ******* login started************
+2025-/03-/18 14:07:32 PM: INFO: *******Title matched************
+2025-/03-/18 14:07:37 PM: INFO: *******Valid login started************
+2025-/03-/18 14:07:43 PM: INFO: *******Title not matched************
+2025-/03-/18 17:14:04 PM: INFO: ******* login started************
+2025-/03-/18 17:14:20 PM: INFO: Test data is passed
+2025-/03-/18 17:20:50 PM: INFO: ******* login started************
+2025-/03-/18 17:21:03 PM: INFO: Test data is passed
+2025-/03-/18 17:21:13 PM: INFO: The test data driven is Passed
+2025-/03-/18 17:33:11 PM: INFO: ******* login started************
+2025-/03-/18 17:33:25 PM: INFO: Test data is passed
+2025-/03-/18 17:33:34 PM: INFO: The test data driven is Passed
+2025-/03-/18 17:53:36 PM: INFO: ******* login started************
+2025-/03-/18 17:56:13 PM: INFO: ******* login started************
+2025-/03-/18 17:56:22 PM: INFO: Test data is Passed
+2025-/03-/18 17:56:30 PM: INFO: Test data is passed
+2025-/03-/18 17:56:40 PM: INFO: Test data is Passed
+2025-/03-/18 17:56:40 PM: INFO: The test data driven is Passed
+2025-/03-/18 18:06:11 PM: INFO: ******* login started************
+2025-/03-/18 18:06:21 PM: INFO: Test data is Passed
+2025-/03-/18 18:06:26 PM: INFO: Test data is passed
+2025-/03-/18 18:06:39 PM: INFO: Test data is Passed
+2025-/03-/18 18:06:39 PM: INFO: The test data driven is Passed
+2025-/03-/19 13:45:30 PM: INFO: *******Test01 login************
+2025-/03-/19 13:45:30 PM: INFO: *******Verification of login page title************
+2025-/03-/19 13:45:32 PM: INFO: *******Page title not matched************
+2025-/03-/19 13:45:36 PM: INFO: ******* login started************
+2025-/03-/19 13:45:54 PM: INFO: *******Valid login started************
+2025-/03-/19 13:46:45 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020CD45397F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/96b8f3e9477236f29b77639f73ab173f
+2025-/03-/19 13:46:49 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020CD45398E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/96b8f3e9477236f29b77639f73ab173f
+2025-/03-/19 13:46:53 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020CD453B7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/96b8f3e9477236f29b77639f73ab173f
+2025-/03-/19 13:47:41 PM: INFO: *******Test01 login************
+2025-/03-/19 13:47:41 PM: INFO: *******Verification of login page title************
+2025-/03-/19 13:47:43 PM: INFO: *******Page title matched************
+2025-/03-/19 13:47:47 PM: INFO: ******* login started************
+2025-/03-/19 13:47:53 PM: INFO: *******Title matched************
+2025-/03-/19 13:47:57 PM: INFO: *******Valid login started************
+2025-/03-/19 13:48:02 PM: INFO: *******Title not matched************
+2025-/03-/19 18:14:53 PM: INFO: *******Test03 Addrs************
+2025-/03-/19 18:14:56 PM: INFO: *******Login start************
+2025-/03-/19 18:20:29 PM: INFO: *******Test03 Addrs************
+2025-/03-/19 18:20:33 PM: INFO: *******Login start************
+2025-/03-/19 18:20:38 PM: INFO: *******Addrs fields test start************
+2025-/03-/19 18:34:43 PM: INFO: *******Test03 Addrs************
+2025-/03-/19 18:34:46 PM: INFO: *******Login start************
+2025-/03-/19 18:34:50 PM: INFO: *******Addrs fields test start************
+2025-/03-/19 18:34:54 PM: INFO: ********Title matched**********
+2025-/03-/19 19:40:52 PM: INFO: *******Test01 login************
+2025-/03-/19 19:40:52 PM: INFO: *******Verification of login page title************
+2025-/03-/19 19:40:54 PM: INFO: *******Page title matched************
+2025-/03-/19 19:40:58 PM: INFO: ******* login started************
+2025-/03-/19 19:41:02 PM: INFO: *******Title matched************
+2025-/03-/19 19:41:06 PM: INFO: *******Valid login started************
+2025-/03-/19 19:41:10 PM: INFO: *******Title not matched************
+2025-/03-/19 19:41:14 PM: INFO: *******Test03 Addrs************
+2025-/03-/19 19:41:16 PM: INFO: *******Login start************
+2025-/03-/19 19:41:19 PM: INFO: *******Addrs fields test start************
+2025-/03-/19 19:41:22 PM: INFO: ********Title matched**********
+2025-/03-/19 19:45:03 PM: INFO: *******Test01 login************
+2025-/03-/19 19:45:03 PM: INFO: *******Verification of login page title************
+2025-/03-/19 19:45:06 PM: INFO: *******Page title matched************
+2025-/03-/19 19:45:09 PM: INFO: ******* login started************
+2025-/03-/19 19:45:13 PM: INFO: *******Title matched************
+2025-/03-/19 19:45:17 PM: INFO: *******Valid login started************
+2025-/03-/19 19:45:22 PM: INFO: *******Title not matched************
+2025-/03-/19 19:45:26 PM: INFO: *******Test03 Addrs************
+2025-/03-/19 19:45:28 PM: INFO: *******Login start************
+2025-/03-/19 19:45:33 PM: INFO: *******Addrs fields test start************
+2025-/03-/19 19:45:36 PM: INFO: ********Title matched**********
+2025-/03-/19 20:14:18 PM: INFO: *******Test01 login************
+2025-/03-/19 20:14:18 PM: INFO: *******Verification of login page title************
+2025-/03-/19 20:14:20 PM: INFO: *******Page title matched************
+2025-/03-/19 20:14:24 PM: INFO: ******* login started************
+2025-/03-/19 20:14:29 PM: INFO: *******Title matched************
+2025-/03-/19 20:14:33 PM: INFO: *******Valid login started************
+2025-/03-/19 20:14:36 PM: INFO: *******Title not matched************
+2025-/03-/19 20:14:40 PM: INFO: *******Test03 Addrs************
+2025-/03-/19 20:14:42 PM: INFO: *******Login start************
+2025-/03-/19 20:14:47 PM: INFO: *******Addrs fields test start************
+2025-/03-/19 20:14:50 PM: INFO: ********Title matched**********
