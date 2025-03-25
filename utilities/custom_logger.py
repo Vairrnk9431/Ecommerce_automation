@@ -1,12 +1,33 @@
 import logging
+import os
 
-class Log_Maker():
+LOG_FILE = ".\\logs\\nopcommerce.log"
+
+class Log_Maker:
     @staticmethod
     def log_gen():
-        logging.basicConfig(filename=".\\logs\\nopcommerce.log",
-                    format='%(asctime)s: %(levelname)s: %(message)s',
-                    datefmt='%Y-/%m-/%d %H:%M:%S %p',
-                    force=True)
+        # Create the 'logs' directory if it doesn't exist
+        os.makedirs(".\\logs", exist_ok=True)
+        
+        # Delete the log file if it exists (Fresh log on each run)
+        if os.path.exists(LOG_FILE):
+            os.remove(LOG_FILE)
+
+        # Configure logging with a fresh log file
+        logging.basicConfig(
+            filename=LOG_FILE,
+            format='%(asctime)s: %(levelname)s: %(message)s',
+            datefmt='%Y-%m-%d %H:%M:%S %p',
+            force=True,
+            level=logging.INFO
+        )
+
         logger = logging.getLogger()
-        logger.setLevel(logging.INFO)
         return logger
+
+# Usage Example
+if __name__ == "__main__":
+    logger = Log_Maker.log_gen()
+    logger.info("Starting the application.")
+    logger.warning("This is a warning message.")
+    logger.error("This is an error message.")

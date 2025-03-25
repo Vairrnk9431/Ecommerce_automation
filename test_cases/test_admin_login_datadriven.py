@@ -14,7 +14,7 @@ class Test_02_Admin_Login_datadriven:
     status_list=[]
 
 
-
+    
     def test_valid_admin_login_datadriven(self,setup):
          self.logger.info("******* login started************")
          self.driver= setup

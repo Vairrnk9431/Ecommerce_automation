@@ -26,7 +26,7 @@ class Login_admin_page:
         self.driver.find_element(By.XPATH, self.btn_login_xpath).click()
 
     def logg_off(self):
-          self.driver.find_element(By.XPATH, self.loggoff_xpath).click()
+          self.driver.find_element(By.XPATH,self.logg_off).click()
         #   self.driver.find_element(By.XPATH,self.after_logout_continue_xpath).click()
         #   self.driver.find_element(By.LINK_TEXT,self.login_link_text).click()
 
